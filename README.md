@@ -62,6 +62,22 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
     </table>
 </div>
 
+## Flutter CustomPaint Widget
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterCustompaintWidget/blob/master/assets/Screenshot_1559101852.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://github.com/whatsupcoders/FlutterCustompaintWidget/blob/master/assets/Screenshot_1559101868.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterCustompaintWidget/blob/master/assets/custompaint.gif" width="200" />
+            </td>
+        </tr>
+  </table>
+  </div>
 
 ## Contributors
 Whatsupcoder <br>
