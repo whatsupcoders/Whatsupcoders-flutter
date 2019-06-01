@@ -95,6 +95,26 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
         </tr>
   </table>
   </div>
+  
+## Flutter AnimatedCharts
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/Screenshot_1559363591.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/Screenshot_1559363135.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/Screenshot_1559363122.png" width="200"/>
+            </td>  
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/FlutterAnimatedCharts/blob/master/assets/animatedcharts.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
 
 ## Contributors
 Whatsupcoder <br>
