@@ -29,6 +29,20 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </table>
   </div>
 
+## Flutter Charts
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterCharts/blob/master/assets/Screenshot_1559877889.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                     <img src="https://github.com/whatsupcoders/FlutterCharts/blob/master/assets/Screenshot_1559877891.png" width="200"/>
+            </td>
+      </tr>
+  </table>
+  </div>
+
 ## Flutter GoogleSign
 <div style="text-align: center">
     <table>
