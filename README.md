@@ -216,6 +216,19 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </table>
   </div>
   
+## Flutter Wrap Widget
+
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Wrap/blob/master/assets/Flutter%20Wrap.png" width="600"/>
+            </td>                    
+      </tr>
+
+  </table>
+  </div>
+  
 ## Flutter ImageUpload
 <div style="text-align: center">
     <table>
