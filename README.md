@@ -88,7 +88,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
       </tr>
   </table>
   </div>
-  
+ 
 ## Flutter Themes
 <div style="text-align: center">
     <table>
@@ -232,6 +232,18 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
       </tr>
   </table>
   </div>
+  
+## flutter_bezier_app
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Bezier-App/blob/master/assets/Flutter%20Bezier.png" width="600"/>
+            </td>                    
+      </tr>
+  </table>
+  </div>
+  
   
 ## Contributors
 Whatsupcoder <br>
