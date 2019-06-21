@@ -288,6 +288,22 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </div>
 </a>
 
+## Flutter Staggered Grid View
+<a href="https://github.com/whatsupcoders/Flutter-Staggered-GridView">
+<div style="text-align: center">
+    <table>
+        <tr>     
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/Flutter-Staggered-GridView/blob/master/assets/Screenshot_1561153266.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Staggered-GridView/blob/master/assets/Screenshot_1561153288.png" width="200"/>
+            </td>     
+      </tr>
+  </table>
+  </div>
+</a>
+
 ## flutter_bezier_app
 <a href="https://github.com/whatsupcoders/Flutter-Bezier-App">
 <div style="text-align: center">
