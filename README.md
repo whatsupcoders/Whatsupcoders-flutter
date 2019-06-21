@@ -47,6 +47,17 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </table>
   </div>
   
+## Flutter Web(Flutter EuroRail Example)
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-EuroRail/blob/master/flutter_euro_rail_web/assets/Flutter_web_gif.gif" width="1000" heigth="600"/>
+            </td>  
+        </tr>
+    </table>
+</div>
+
 ## Flutter GoogleMaps
 <div style="text-align: center">
     <table>
