@@ -32,7 +32,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </a>
   
 ## Flutter FlipCard
-
+<a href="https://github.com/whatsupcoders/FLutterFlipCard">
 <div style="text-align: center">
     <table>
         <tr>
@@ -48,8 +48,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
         </tr>
   </table>
   </div>
-  
+</a>  
 ## Flutter Web(Flutter EuroRail Example)
+<a href="https://github.com/whatsupcoders/Flutter-EuroRail"> 
 <div style="text-align: center">
     <table>
         <tr>
@@ -59,8 +60,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
         </tr>
     </table>
 </div>
-
+</a>    
 ## Flutter GoogleMaps
+<a href="https://github.com/whatsupcoders/Flutter-GoogleMaps">
 <div style="text-align: center">
     <table>
         <tr>
@@ -76,8 +78,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
         </tr>
   </table>
   </div>
-  
+</a> 
 ## Flutter Charts
+<a href="https://github.com/whatsupcoders/FlutterCharts">
 <div style="text-align: center">
     <table>
         <tr>
@@ -90,8 +93,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
       </tr>
   </table>
   </div>
- 
+</a> 
 ## Flutter Themes
+<a href="https://github.com/whatsupcoders/FlutterThemes">
 <div style="text-align: center">
     <table>
         <tr>
@@ -110,8 +114,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
       </tr>
   </table>
   </div>
-
+</a>
 ## Flutter GoogleSign
+<a href="https://github.com/whatsupcoders/GoogleSignin">
 <div style="text-align: center">
     <table>
         <tr>          
@@ -127,8 +132,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
         </tr>
     </table>
 </div>
+</a>
 
-## Flutter Drop Down - <a href="https://github.com/whatsupcoders/FlutterDropDown" > Repo </a>
+## Flutter Drop Down 
+<a href="https://github.com/whatsupcoders/FlutterDropDown" >
 <div style="text-align: center">
     <table>
          <tr>
@@ -143,8 +150,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
         </tr>
     </table>
 </div>
-
+</a>
 ## Flutter CustomPaint Widget
+<a href="https://github.com/whatsupcoders/FlutterCustompaintWidget">
 <div style="text-align: center">
     <table>
         <tr>
@@ -160,8 +168,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
         </tr>
   </table>
   </div>
-  
+</a>  
  ## Flutter Keys
+<a href="https://github.com/whatsupcoders/FlutterKeys">
 <div style="text-align: center">
     <table>
         <tr>
@@ -177,8 +186,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
         </tr>
   </table>
   </div>
-  
+</a>  
 ## Flutter AnimatedCharts
+<a href="https://github.com/whatsupcoders/FlutterAnimatedCharts">
 <div style="text-align: center">
     <table>
         <tr>
@@ -197,8 +207,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
       </tr>
   </table>
   </div>
-  
+</a>  
 ## Flutter Inherited Widget
+<a href="https://github.com/whatsupcoders/FlutterInheritedWidget">
 <div style="text-align: center">
     <table>
         <tr>
@@ -217,9 +228,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
       </tr>
   </table>
   </div>
-  
+</a>  
 ## Flutter Wrap Widget
-
+<a href="https://github.com/whatsupcoders/Flutter-Wrap">
 <div style="text-align: center">
     <table>
         <tr>
@@ -230,8 +241,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   </table>
   </div>
-  
+</a>  
 ## Flutter ImageUpload
+<a href="https://github.com/whatsupcoders/Flutter-ImageUpload">
 <div style="text-align: center">
     <table>
         <tr>
@@ -247,8 +259,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
       </tr>
   </table>
   </div>
-  
+</a>  
 ## flutter_bezier_app
+<a href="https://github.com/whatsupcoders/Flutter-Bezier-App">
 <div style="text-align: center">
     <table>
         <tr>
@@ -258,7 +271,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
       </tr>
   </table>
   </div>
-  
+</a>  
   
 ## Contributors
 Whatsupcoder <br>
