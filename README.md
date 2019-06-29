@@ -140,6 +140,26 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </div>
 </a>
 
+## Flutter Slider Widget
+<a href="https://github.com/whatsupcoders/Flutter-Slider-Widget">
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Slider-Widget/blob/master/assets/slider_money_gif.gif" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/Flutter-Slider-Widget/blob/master/assets/slider_smiley_gif.gif" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Slider-Widget/blob/master/assets/slider_star_gif.gif" width="200"/>
+            </td>       
+      </tr>
+  </table>
+  </div>
+</a>
+
+
 ## Flutter GoogleSign
 <a href="https://github.com/whatsupcoders/GoogleSignin">
 <div style="text-align: center">
