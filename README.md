@@ -217,6 +217,28 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </div>
 </a>
 
+## Flutter Chip Widget
+<a href="https://github.com/whatsupcoders/Flutter-Chip-Widget" >
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Chip-Widget/blob/master/assets/action_gif.gif" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/Flutter-Chip-Widget/blob/master/assets/Screenshot_1562205033.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Chip-Widget/blob/master/assets/choice_gif.gif" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Chip-Widget/blob/master/assets/filter_gif.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+</a>
+
 ## Flutter Firestore Curd
 <a href="https://github.com/whatsupcoders/Flutter-Firestore-CRUD" >
 <div style="text-align: center">
