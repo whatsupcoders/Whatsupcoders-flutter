@@ -199,6 +199,28 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </div>
 </a>
 
+## Flutter Chart+Firestore
+<a href="https://github.com/whatsupcoders/flutter-chart-firestore">
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/flutter-chart-firestore/blob/master/assets/Screenshot_1563054924.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/flutter-chart-firestore/blob/master/assets/Screenshot_1563057447.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/flutter-chart-firestore/blob/master/assets/chart_task_gif.gif" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/flutter-chart-firestore/blob/master/assets/charts_sales_gif.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+</a>
+
 ## Flutter Drop Down 
 <a href="https://github.com/whatsupcoders/FlutterDropDown" >
 <div style="text-align: center">
