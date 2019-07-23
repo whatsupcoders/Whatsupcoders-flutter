@@ -139,6 +139,21 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </div>
 </a>
 
+## Flutter Gradient
+<a href="https://github.com/whatsupcoders/Flutter-Gradient">
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Gradient/blob/master/assets/Screenshot_1563855812.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://github.com/whatsupcoders/Flutter-Gradient/blob/master/assets/Screenshot_1563855840.png" width="200"/>
+            </td>        
+      </tr>
+  </table>
+  </div>
+</a>
 
 ## Flutter PageView
 <a href="https://github.com/whatsupcoders/Flutter-PageView">
