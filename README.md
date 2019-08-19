@@ -174,6 +174,28 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </div>
 </a>
 
+## Flutter Tables
+<a href="https://github.com/whatsupcoders/Flutter-Tables">
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Tables/blob/master/assets/Screenshot_1566245013.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/Flutter-Tables/blob/master/assets/Screenshot_1566245018.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Tables/blob/master/assets/Screenshot_1566245021.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-Tables/blob/master/assets/table.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+</a>
+
 ## Flutter Slider Widget
 <a href="https://github.com/whatsupcoders/Flutter-Slider-Widget">
 <div style="text-align: center">
