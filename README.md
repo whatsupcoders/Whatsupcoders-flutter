@@ -235,6 +235,25 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </div>
 </a>
 
+## Flutter FittedBox
+<a href="https://github.com/whatsupcoders/Flutter-FittedBox">
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-FittedBox/blob/master/assets/Screenshot_1566251870.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://github.com/whatsupcoders/Flutter-FittedBox/blob/master/assets/Screenshot_1566251872.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-FittedBox/blob/master/assets/fittedbox.gif" width="200" />
+            </td>
+        </tr>
+  </table>
+  </div>
+</a>
+
 
 ## Flutter Hero Widget
 <a href="https://github.com/whatsupcoders/Flutter-Hero-Widget">
