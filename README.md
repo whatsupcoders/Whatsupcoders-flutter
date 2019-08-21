@@ -120,6 +120,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </div>
 </a>
 
+
+
 ## Flutter SliversAppBar
 <a href="https://github.com/whatsupcoders/Flutter-SliversApp">
 <div style="text-align: center">
@@ -135,6 +137,25 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
                      <img src="https://github.com/whatsupcoders/Flutter-SliversApp/blob/master/assets/sliversApp_gif.gif" width="200"/>
             </td>        
       </tr>
+  </table>
+  </div>
+</a>
+
+## Flutter Backdropfilter Widget
+<a href="https://github.com/whatsupcoders/Flutter-BackdropFilter-Widget">
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-BackdropFilter-Widget/blob/master/assets/Screenshot_1546993846.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://github.com/whatsupcoders/Flutter-BackdropFilter-Widget/blob/master/assets/Screenshot_1546994073.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-BackdropFilter-Widget/blob/master/assets/Screenshot_1547008344.png" width="200" />
+            </td>
+        </tr>
   </table>
   </div>
 </a>
