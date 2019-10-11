@@ -217,6 +217,22 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   </div>
 </a>
 
+## Flutter GestureDetect and Inkwell
+<a href="https://github.com/whatsupcoders/Flutter-Gesturedetect-inkwell">
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-Gesturedetect-inkwell/blob/master/assets/Gesturedetect.gif" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://github.com/whatsupcoders/Flutter-Gesturedetect-inkwell/blob/master/assets/Screenshot_1570753657.png" width="200"/>
+            </td>
+      </tr>
+  </table>
+  </div>
+</a>
+
 ## Flutter Slider Widget
 <a href="https://github.com/whatsupcoders/Flutter-Slider-Widget">
 <div style="text-align: center">
